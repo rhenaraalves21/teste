@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^6.2.0"
+  },
+  "scripts": {
+    "cypress": "cypress run",
+    "cypress:chrome": "cypress run -b chrome",
+    "cypress:open": "cypress open" 
+  }
+}
